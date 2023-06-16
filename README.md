@@ -2,7 +2,7 @@
  
 ## Frontend for Quiz-game
 deployed on Netltfy →
-dploying...
+[Visit](https://quiztime-7x8j.onrender.com/quiz)
 
 ## Using Tools
 - JavaScript
